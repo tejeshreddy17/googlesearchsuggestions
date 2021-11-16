@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.suggestion-style {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.redirect-style {
+  height: 16px;
+}
